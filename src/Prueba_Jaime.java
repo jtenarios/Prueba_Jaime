@@ -7,6 +7,8 @@ public class Prueba_Jaime {
 
     private Prueba_Jaime() {
 
-        // Comentario
+        // Comentario escrito desde Portatil
+
+        // Comentario escrito desde Ordenador de casa
     }
 }
